@@ -374,4 +374,8 @@ with open('2.assembly/2.assembly.flye.nano_hq.LR_polished/assembly2contig_lookup
 quit()
 ```
 
+# Further processing
+
+To obtain gene prediction and annotations, please refer to the [Environmental Metagenomics page](https://github.com/GenomicsAotearoa/environmental_metagenomics/). 
+
 [^1]: This will be written into a script on a later date
